@@ -3,6 +3,6 @@
 using namespace std;
 int main()
 {
-    double a,b;
+    double a;
     cout << "1st number" << endl;
         cin >> a;
