@@ -4,10 +4,10 @@ int main()
 {
 double a, b;
 
-cout << "1st number: " << endl
+cout << "1st number: " << endl;
 cin >> a;
 
-cout << "2st number: " << endl
+cout << "2st number: " << endl;
 cin >> b;
 
 double avg = (a+b)/2;
